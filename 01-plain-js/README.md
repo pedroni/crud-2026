@@ -7,4 +7,4 @@ No backend, php is used so that we can run `php -S localhost:8080` to serve easi
 It took me 1 hour and 20 minutes without preparation, i just went straight ahead into coding it.
 
 
-<img src="./Screenshot 2026-10-24 at 13.46.05"/>
+<img src="./Screenshot 2026-10-24 at 13.46.05.png"/>
